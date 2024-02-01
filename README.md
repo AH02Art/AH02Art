@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, and React.js.**
 
-- ⚡ Fun fact **I am taking this course with my younger brother, Jacob.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
