@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A Student at Bloom Institute of Technology learning Javascript, HTML, and CSS.</h3>
+<h1 align="center">Hello there, I'm Alex</h1>
+<h3 align="center">A Student at Bloom Institute of Technology learning Javascript, HTML, and CSS in the Full Stack Web course.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ah02art" alt="ah02art" /></a> </p>
 
-- 🔭 I’m currently working on **learning and graduating from BloomTech.**
+- 🔭 I’m currently working on **graduating from BloomTech.**
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, and React.js.**
+- 🌱 I’ve been training in **Javascript, HTML, CSS, SQL, working with API calls, React, Tailwind, and more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
