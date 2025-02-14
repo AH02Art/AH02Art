@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ah02art" alt="ah02art" /></a> </p>
 
-- 🔭 I’m currently working on **graduating from BloomTech.**
+- 🔭 I’m currently working on **building my own website.**
 
 - 🌱 I’ve been training in **Javascript, HTML, CSS, SQL, working with API calls, React, Tailwind, and more.**
 
