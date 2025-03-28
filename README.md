@@ -1,5 +1,6 @@
-<h1 align="center">Hello there, I'm Alex</h1>
-<h3 align="center">A Student at Bloom Institute of Technology learning Javascript, HTML, and CSS in the Full Stack Web course.</h3>
+<h1 align="center">Hello there! My name's Alex :D</h1>
+<h3 align="center">I am a graduate from Bloom Institute of Technology, graduated from their Full Stack Web Development course.</h3>
+<p>I have been trained on the basics and foundation of the Web. I learned to use Javascript, HTML, and CSS together alongside the JavaScript library React, used Tailwindcss, express, knex, and writing SQL for data bases on the backend and more in between like authentication and authorization! Now, I'm currently building my first website, which the repository can be found here on my GitHub page.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ah02art" alt="ah02art" /></a> </p>
 
