@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Alex Handley</h1>
 <h3 align="center">A passionate Web Developer who graduated from Bloom Institute of Technology.</h3>
 
-- I’m currently working on [my first website](https://github.com/AH02Art/My-First-Website) using EJS
+- I recently completed [my first website](https://github.com/AH02Art/My-First-Website) using EJS, CSS, and JavaScript
+- I’m currently working on a links site for my personal contacts[links website](https://github.com/AH02Art/Links-Website) using HTML, CSS, and JavaScript.
 
 - 📫 How to reach me **alexhtech2@gmail.com**
 
